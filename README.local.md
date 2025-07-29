@@ -1,19 +1,19 @@
-# 🔐 FUTURE_CS_03 - Secure File Sharing App
+# FUTURE_CS_03 - Secure File Sharing App
 
 A simple Flask-based secure file sharing app that encrypts uploaded files using AES (via `cryptography.Fernet`) and computes SHA256 hash for integrity verification.
 
 ---
 
-## 🚀 Features
+## Features
 
-- 🔐 AES encryption for uploaded files
-- 🧮 SHA256 hash generation for integrity check
-- 🌐 Flask UI for file uploads
-- 📄 Sample file included for testing
+- AES encryption for uploaded files
+- SHA256 hash generation for integrity check
+- Flask UI for file uploads
+- Sample file included for testing
 
 ---
 
-## 🧪 How to Use
+## How to Use
 
 ```bash
 # 1. Clone the repo
@@ -37,6 +37,6 @@ python3 app.py
 
 ---
 
-## 🧠 Developer
+## Developer
 Godson Enruchi Chukwu (CyberRN-Mulla)
 Abuja, Nigeria
